@@ -37,3 +37,6 @@ It compares multiple algorithms and selects the best performing model using hype
 
 ## 🎯 Outcome
 The tuned Random Forest model achieved the highest prediction accuracy.
+## Project Demo
+
+[Click here to watch the screen recording]()
