@@ -39,4 +39,4 @@ It compares multiple algorithms and selects the best performing model using hype
 The tuned Random Forest model achieved the highest prediction accuracy.
 ## Project Demo
 
-[Click here to watch the screen recording](C:\Users\Raju mandala\Desktop\github\student performance analysis\screenshots)
+[Click here to watch the screen recording](screenshots/demo.mp4)
